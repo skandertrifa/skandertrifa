@@ -11,7 +11,7 @@ Network
 [![Outlook Badge](https://img.shields.io/badge/skanderInsat-0078D4?style=flat&labelColor=microsoft-outlook&logoColor=white)](mailto:skander.trifa@gmail.com)
 
 
-[![Skander's github stats](https://github-readme-stats.vercel.app/api?username=skandertrifa&theme=blue-green)
+![Skander's github stats](https://github-readme-stats.vercel.app/api?username=skandertrifa&theme=blue-green)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skandertrifa&theme=blue-green)
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skandertrifa&theme=blue-green)
 
