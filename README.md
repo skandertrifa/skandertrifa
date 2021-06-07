@@ -8,4 +8,4 @@
 Network
 [![Linkedin Badge](https://img.shields.io/badge/-Skander-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skandertrifa/)
 [![Mail Badge](https://img.shields.io/badge/-skandertrifa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trifa.skander@insat.u-carthage.tn)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:skander.trifa@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/skanderInsat-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:skander.trifa@gmail.com)
