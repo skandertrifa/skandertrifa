@@ -1,4 +1,5 @@
 ### Hi there, I'm Skander👋🏽
+<h1 align="center">Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Skander Trifa</h1>
 
 - 👨‍💻 A student in software engineering At INSAT  who enjoys spending time on challenging side-projects
 - 📍 Located in Tunis, Tunisia
