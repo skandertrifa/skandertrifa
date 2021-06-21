@@ -11,8 +11,8 @@
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Skander-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skandertrifa/)
-[![Mail Badge](https://img.shields.io/badge/-skandertrifa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trifa.skander@insat.u-carthage.tn)
-[![Outlook Badge](https://img.shields.io/badge/skanderInsat-0078D4?style=flat&labelColor=microsoft-outlook&logoColor=white)](mailto:skander.trifa@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-skandertrifa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:skander.trifa@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/skanderInsat-0078D4?style=flat&labelColor=microsoft-outlook&logoColor=white)](mailto:trifa.skander@insat.u-carthage.tn)
 
 
 ![Skander's github stats](https://github-readme-stats.vercel.app/api?username=skandertrifa&theme=blue-green)
